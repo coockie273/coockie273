@@ -1,7 +1,7 @@
 ![banner (2)](https://github.com/coockie273/coockie273/assets/103525603/77587c08-7f4a-403b-b031-a5002a3a6f4b)
 
 
-I'm a 4th year student from Russia.
+My name is Stas and i'm currently pursuing my fourth year at the techinal university. My GitHub is a reflection of my coding journey, showcasing projects and contributions that demonstrate my dedication to continuous learning and growth in the field.
 
 ### 📚 Education
 - 🏫 Peter the Great St. Petersburg Polytechnic University, Institute of Computer Science and Cybersecurity, Artificial Intelligence systems and Supercomputing Technologies
