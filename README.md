@@ -30,13 +30,9 @@ My name is Stanislav and i'm currently pursuing my fourth year at the techinal u
 
 # :fire: My Stats 
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=coockie273&theme=dark&border_radius=4.9&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri)](https://git.io/streak-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=coockie273&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coockie273&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coockie273&&theme=dark&background=000000)](https://github.com/coockie273/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
