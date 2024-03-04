@@ -1,7 +1,6 @@
 ![banner (2)](https://github.com/coockie273/coockie273/assets/103525603/77587c08-7f4a-403b-b031-a5002a3a6f4b)
 
 
-# About me 
 I'm a 4th year student from Russia.
 
 ### 📚 Education
