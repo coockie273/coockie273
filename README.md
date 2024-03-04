@@ -1,5 +1,6 @@
 ![banner (3)](https://github.com/coockie273/coockie273/assets/103525603/cc648f97-1b22-46ff-b75d-d2c1ffcb8369)
 
+---
 # About me
 
 My name is Stanislav and i'm currently pursuing my fourth year at the techinal university.
@@ -12,7 +13,7 @@ My name is Stanislav and i'm currently pursuing my fourth year at the techinal u
 -  🤖Machine learning
 - :cloud: Cloud services
 - 🧬 Genetic programming
-
+---
 # :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Py" alt="Py" width="40" height="40"/>&nbsp;
@@ -25,14 +26,16 @@ My name is Stanislav and i'm currently pursuing my fourth year at the techinal u
   <img src="https://github.com/devicons/devicon/blob/master/icons/openstack/openstack-original-wordmark.svg" title="OS" alt="OS" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+# :fire: My Stats 
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=coockie273&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coockie273&layout=compact)](https://github.com/coockie273/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coockie273&&theme=dark&background=000000)](https://github.com/coockie273/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
