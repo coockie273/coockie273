@@ -1,4 +1,5 @@
-![banner (2)](https://github.com/coockie273/coockie273/assets/103525603/77587c08-7f4a-403b-b031-a5002a3a6f4b)
+![banner (3)](https://github.com/coockie273/coockie273/assets/103525603/5d5ec255-d43c-426c-ac38-aa94f9d2bbcf)
+
 
 
 My name is Stas and i'm currently pursuing my fourth year at the techinal university. My GitHub is a reflection of my coding journey, showcasing projects and contributions that demonstrate my dedication to continuous learning and growth in the field.
