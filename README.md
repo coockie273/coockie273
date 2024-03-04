@@ -14,7 +14,7 @@ My name is Stanislav and i'm currently pursuing my fourth year at the techinal u
 - :cloud: Cloud services
 - 🧬 Genetic programming
 ---
-# :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Py" alt="Py" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
@@ -28,7 +28,7 @@ My name is Stanislav and i'm currently pursuing my fourth year at the techinal u
 
 ---
 
-# :fire: My Stats 
+### :fire: My Stats 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=coockie273&theme=dark&border_radius=4.9&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri)](https://git.io/streak-stats)
 
