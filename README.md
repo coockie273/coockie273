@@ -1,7 +1,8 @@
 ![banner (3)](https://github.com/coockie273/coockie273/assets/103525603/cc648f97-1b22-46ff-b75d-d2c1ffcb8369)
 
+# About me
 
-My name is Stanislav and i'm currently pursuing my fourth year at the techinal university. My GitHub is a reflection of my coding journey, showcasing projects and contributions that demonstrate my dedication to continuous learning and growth in the field.
+My name is Stanislav and i'm currently pursuing my fourth year at the techinal university.
 
 ### 📚 Education
 - 🏫 Peter the Great St. Petersburg Polytechnic University, Institute of Computer Science and Cybersecurity, Artificial Intelligence systems and Supercomputing Technologies
@@ -11,6 +12,13 @@ My name is Stanislav and i'm currently pursuing my fourth year at the techinal u
 -  🤖Machine learning
 - :cloud: Cloud services
 - 🧬 Genetic programming
+
+---
+
+# :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
+</div>
 
 
 
