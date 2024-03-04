@@ -1,8 +1,7 @@
-![banner (3)](https://github.com/coockie273/coockie273/assets/103525603/5d5ec255-d43c-426c-ac38-aa94f9d2bbcf)
+![banner (3)](https://github.com/coockie273/coockie273/assets/103525603/cc648f97-1b22-46ff-b75d-d2c1ffcb8369)
 
 
-
-My name is Stas and i'm currently pursuing my fourth year at the techinal university. My GitHub is a reflection of my coding journey, showcasing projects and contributions that demonstrate my dedication to continuous learning and growth in the field.
+My name is Stanislav and i'm currently pursuing my fourth year at the techinal university. My GitHub is a reflection of my coding journey, showcasing projects and contributions that demonstrate my dedication to continuous learning and growth in the field.
 
 ### 📚 Education
 - 🏫 Peter the Great St. Petersburg Polytechnic University, Institute of Computer Science and Cybersecurity, Artificial Intelligence systems and Supercomputing Technologies
