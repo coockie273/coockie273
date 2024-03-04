@@ -1,7 +1,7 @@
 ![banner (3)](https://github.com/coockie273/coockie273/assets/103525603/cc648f97-1b22-46ff-b75d-d2c1ffcb8369)
 
 ---
-# About me
+## About me
 
 My name is Stanislav and i'm currently pursuing my fourth year at the techinal university.
 
